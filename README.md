@@ -1,1 +1,1 @@
-# Prime-Dashboard
+This project aims to visualize and analyze the content available on Amazon Prime Video. By leveraging the data transformation and visualization capabilities of Power BI.This project explores trends, patterns, and insights from a dataset of movies and TV shows, genres of shows,directors, content ratings available on the platform.
